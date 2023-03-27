@@ -5,6 +5,6 @@ public class Hello {
         System.out.println("Hello Git By IDEA");
         System.out.println("Hello Git");
         System.out.println("Hello Git2");
-
+        System.out.println("master git ");
     }
 }
